@@ -104,32 +104,32 @@ img {
 <div class="container">
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
-    <img src="desktop/slideshow/images/demi_2.jpeg" style="width:100%">
+    <img src="images/demi_2.jpeg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
-    <img src="desktop/slideshow/images/demi_1.jpg" style="width:100%">
+    <img src="images/demi_1.jpg" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
-    <img src="desktop/slideshow/images/darius_use.jpg" style="width:100%">
+    <img src="images/darius_use.jpg" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
-    <img src="desktop/slideshow/images/darius_4.JPG" style="width:100%">
+    <img src="images/darius_4.JPG" style="width:100%">
   </div>
 
   <div class="mySlides">
     <div class="numbertext">5 / 6</div>
-    <img src="desktop/slideshow/images/darius_3.JPG" style="width:100%">
+    <img src="images/darius_3.JPG" style="width:100%">
   </div>
     
   <div class="mySlides">
     <div class="numbertext">6 / 6</div>
-    <img src="desktop/slideshow/images/darius_2.JPG" style="width:100%">
+    <img src="images/darius_2.JPG" style="width:100%">
   </div>
     
   <a class="prev" onclick="plusSlides(-1)">❮</a>
@@ -141,22 +141,22 @@ img {
 
   <div class="row">
     <div class="column">
-      <img class="demo cursor" src="desktop/slideshow/images/demi_2.jpeg" style="width:100%" onclick="currentSlide(1)" alt="The golden fried calamari, served with lemons and tartar sauce, is a hit appetizer with customers. Photo by Demetria Osei-Tutu.">
+      <img class="demo cursor" src="images/demi_2.jpeg" style="width:100%" onclick="currentSlide(1)" alt="The golden fried calamari, served with lemons and tartar sauce, is a hit appetizer with customers. Photo by Demetria Osei-Tutu.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="desktop/slideshow/images/demi_1.jpg" style="width:100%" onclick="currentSlide(2)" alt=" Moules Marinières, which combines Prince Edward Island mussels with white wine, shallots and garlic parsley, can be ordered alongside quesadillas, which are made with Monterrey cheese, and caramelized onions and your choice of any protein filling. Photo by Demetria Osei-Tutu. ">
+      <img class="demo cursor" src="images/demi_1.jpg" style="width:100%" onclick="currentSlide(2)" alt=" Moules Marinières, which combines Prince Edward Island mussels with white wine, shallots and garlic parsley, can be ordered alongside quesadillas, which are made with Monterrey cheese, and caramelized onions and your choice of any protein filling. Photo by Demetria Osei-Tutu. ">
     </div>
     <div class="column">
-      <img class="demo cursor" src="desktop/slideshow/images/darius_use.jpg" style="width:100%" onclick="currentSlide(3)" alt="One of the most popular dishes, Steak Frites is a black Angus strip steak served with peppercorn sauce. Photo by Darius Johnson.">
+      <img class="demo cursor" src="images/darius_use.jpg" style="width:100%" onclick="currentSlide(3)" alt="One of the most popular dishes, Steak Frites is a black Angus strip steak served with peppercorn sauce. Photo by Darius Johnson.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="desktop/slideshow/images/darius_4.JPG" style="width:100%" onclick="currentSlide(4)" alt="The specialty cocktail, Dupont, photographed on the left, combines Grey Goose, Mezcal, lime, grapefruit, cilantro and ginger reduction for a great smoky cocktail. The Frida, served with a tajin rim, combines Herradura, Cointreau, lime, and raspberry to make a fruity, flavorful cocktail. Photo by Darius Johnson.">
+      <img class="demo cursor" src="images/darius_4.JPG" style="width:100%" onclick="currentSlide(4)" alt="The specialty cocktail, Dupont, photographed on the left, combines Grey Goose, Mezcal, lime, grapefruit, cilantro and ginger reduction for a great smoky cocktail. The Frida, served with a tajin rim, combines Herradura, Cointreau, lime, and raspberry to make a fruity, flavorful cocktail. Photo by Darius Johnson.">
     </div>
     <div class="column">
-      <img class="demo cursor" src="desktop/slideshow/images/darius_3.JPG" style="width:100%" onclick="currentSlide(5)" alt="This fried ice cream dessert, coated in a thin brioche bread and coconut flakes, is served with fresh fruit. Photo by Darius Johnson.">
+      <img class="demo cursor" src="images/darius_3.JPG" style="width:100%" onclick="currentSlide(5)" alt="This fried ice cream dessert, coated in a thin brioche bread and coconut flakes, is served with fresh fruit. Photo by Darius Johnson.">
     </div>    
     <div class="column">
-      <img class="demo cursor" src="desktop/slideshow/images/darius_2.JPG" style="width:100%" onclick="currentSlide(6)" alt="This decadent chocolate lava cake is served with a warm chocolate center and topped with vanilla ice cream and fresh fruit. Photo by Darius Johnson.">
+      <img class="demo cursor" src="images/darius_2.JPG" style="width:100%" onclick="currentSlide(6)" alt="This decadent chocolate lava cake is served with a warm chocolate center and topped with vanilla ice cream and fresh fruit. Photo by Darius Johnson.">
     </div>
   </div>
 </div>
